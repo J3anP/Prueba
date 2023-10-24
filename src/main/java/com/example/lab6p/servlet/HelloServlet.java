@@ -1,4 +1,4 @@
-package com.example.lab6p;
+package com.example.lab6p.servlet;
 
 import java.io.*;
 
